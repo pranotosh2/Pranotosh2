@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Pranotosh Mandal!
 
-**Data Analytics | Data Science| Machine Learning Explorer**
+**Data Analytics | Data Science | Machine Learning Explorer**
 
 ---
 
