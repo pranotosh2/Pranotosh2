@@ -25,7 +25,7 @@ I'm a passionate Data Analyst who loves transforming raw data into insightful st
 - [Bones](https://github.com/pranotosh2/Bones) — Data-driven exploration of bone health.
 - [Heart Disease Prediction](https://github.com/pranotosh2/Heart-Disease-Prediction) — Machine learning models to predict heart disease risk.
 - [Coffee Shop Sales](https://github.com/pranotosh2/Coffee-Shop-Sales) — Business intelligence dashboards and sales analytics.
-- [PowerBI](https://github.com/pranotosh2/PowerBI) — Interactive dashboards and reports using Power BI.
+- [PowerBI](https://github.com/pranotosh2/sales-analysis) — Interactive dashboards and reports using Power BI.
 
 ---
 
