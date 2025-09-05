@@ -12,8 +12,6 @@ I'm a passionate Data Analyst who loves transforming raw data into insightful st
 
 ## 🛠️ Skills & Tools
 
-## 🛠️ Skills & Tools
-
 <p align="center">
   <!-- Programming -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
