@@ -12,10 +12,45 @@ I'm a passionate Data Analyst who loves transforming raw data into insightful st
 
 ## 🛠️ Skills & Tools
 
-- **Programming:** Python
-- **Data:** MySQL, Power BI
-- **Machine Learning:** Model building, Data preprocessing, Visualization
-- **Other:** Data storytelling, Dashboarding
+## 🛠️ Skills & Tools
+
+<p align="center">
+  <!-- Programming -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
+  
+  <!-- Data -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/>
+  <img src="https://img.icons8.com/color/452/power-bi.png" alt="Power BI" width="60" height="60"/>
+  
+  <!-- Machine Learning -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-learn" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="60" height="60"/>
+  
+  <!-- Other -->
+  <img src="https://img.icons8.com/color/344/storytelling.png" alt="Data Storytelling" width="60" height="60"/>
+  <img src="https://img.icons8.com/color/452/combo-chart--v1.png" alt="Dashboarding" width="60" height="60"/>
+</p>
+
+---
+
+### **Programming**
+- Python  
+
+### **Data**
+- MySQL  
+- Power BI  
+
+### **Machine Learning**
+- Model building  
+- Data preprocessing  
+- Visualization  
+
+### **Other**
+- Data storytelling  
+- Dashboarding  
+
 
 ---
 
