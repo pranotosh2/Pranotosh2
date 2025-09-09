@@ -1,12 +1,17 @@
 # 👋 Hi there, I'm Pranotosh Mandal!
-
-**Data Analytics | Data Science | Machine Learning Explorer**
+🔹 Data Analyst | Aspiring Data Scientist
+🔹 Passionate about transforming raw data into insightful stories
+🔹 Strong expertise in Python, MySQL, Power BI, and Machine Learning
 
 ---
-
 ## 🚀 About Me
+📊 Skilled at data cleaning, visualization, and predictive modeling
 
-I'm a passionate Data Analyst who loves transforming raw data into insightful stories. With strong expertise in **Python**, **MySQL**, **Power BI**, and **Machine Learning**, I specialize in building powerful data solutions that drive business decisions. When I’m not crunching numbers, you’ll find me on the cricket field, enjoying the spirit of the game!
+🛠️ Experienced in building dashboards and end-to-end data solutions
+
+🤖 Enthusiastic about applying Machine Learning,Deep Learning to solve real-world problems
+
+🏏 When I’m not working with data, you’ll find me on the cricket field
 
 ---
 
@@ -32,25 +37,11 @@ I'm a passionate Data Analyst who loves transforming raw data into insightful st
 </p>
 
 ---
-
-### **Programming**
-- Python  
-
-### **Data**
-- MySQL  
-- Power BI  
-
-### **Machine Learning**
-- Model building  
-- Data preprocessing  
-- Visualization  
-
-### **Other**
-- Data storytelling  
-- Dashboarding  
-
-
----
+Languages & Libraries: Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
+Databases: MySQL
+Visualization & BI Tools: Power BI, Matplotlib, Seaborn
+Machine Learning: Regression, Classification, Clustering, Model Evaluation
+Deep Learning: CNN, RNN, GAN(Generatrive Adversarial Networks)
 
 ## 🌟 Featured Projects
 
