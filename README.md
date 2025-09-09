@@ -38,9 +38,13 @@
 
 ---
 Languages & Libraries: Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
+
 Databases: MySQL
+
 Visualization & BI Tools: Power BI, Matplotlib, Seaborn
+
 Machine Learning: Regression, Classification, Clustering, Model Evaluation
+
 Deep Learning: CNN, RNN, GAN(Generatrive Adversarial Networks)
 
 ## 🌟 Featured Projects
