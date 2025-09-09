@@ -37,7 +37,7 @@
 </p>
 
 ---
-Languages & Libraries: Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
+Languages & Libraries: Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn,PyTorch)
 
 Databases: MySQL
 
