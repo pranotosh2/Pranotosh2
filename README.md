@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Pranotosh Mandal!
 🔹 Data Analyst | Aspiring Data Scientist
 🔹 Passionate about transforming raw data into insightful stories
-🔹 Strong expertise in Python, MySQL, Power BI, and Machine Learning
+🔹 Strong expertise in Python, MySQL, Power BI, Machine Learning, Deep Learning, Gen AI, Vision Transformation.....
 
 ---
 ## 🚀 About Me
