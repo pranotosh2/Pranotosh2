@@ -50,10 +50,9 @@ Deep Learning: CNN, RNN, GAN(Generatrive Adversarial Networks)
 ## 🌟 Featured Projects
 
 - [AutoEncoder-Image-Generation](https://github.com/pranotosh2/AutoEncoder) — Deep learning for data compression and anomaly detection.
-- [Bones-Analysis-Python](https://github.com/pranotosh2/Bones) — Data-driven exploration of bone health.
-- [Loan-approval Prediction](https://github.com/pranotosh2/loan-approval-project) — Machine learning models to predict heart disease risk.
-- [Heart-Disease-Prediction](https://github.com/pranotosh2/Heart-Disease-Prediction) — Heart-Disease-Prediction with Machine Learning.
-- [MySQL+PowerBI](https://github.com/pranotosh2/sales-analysis2) — Interactive dashboards and reports using Power BI.
+- [Customer-Behavior-Analysis](https://github.com/pranotosh2/Customer-Behavior-Analysis) — Data-driven exploration of Customer Behavior.
+- [Multi-Source-RAG-App](https://github.com/pranotosh2/Multi-Source-RAG-App) — Questions and answers with multi rag application.
+- [Product Recommendation ](https://github.com/pranotosh2/Fashion-Recommender-System) — Fashin recommended application.
 
 ---
 
