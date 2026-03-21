@@ -1,87 +1,113 @@
 # 👋 Hi there, I'm Pranotosh Mandal!
-🔹 Data Analyst | Aspiring Data Scientist
-🔹 Passionate about transforming raw data into insightful stories
-🔹 Strong expertise in Python, MySQL, Power BI, Machine Learning, Deep Learning, Gen AI, Vision Transformation.....
+
+🚀 **AI/ML Engineer | Data Analyst | Problem Solver**
+
+🔹 Passionate about transforming raw data into meaningful insights  
+🔹 Skilled in building end-to-end ML systems and data-driven applications  
+🔹 Focused on real-world impact using AI, Deep Learning, and GenAI  
 
 ---
+
 ## 🚀 About Me
-📊 Skilled at data cleaning, visualization, and predictive modeling
 
-🛠️ Experienced in building dashboards and end-to-end data solutions
+📊 Strong in **data cleaning, visualization, and predictive modeling**  
 
-🤖 Enthusiastic about applying Machine Learning,Deep Learning to solve real-world problems
+🛠️ Experienced in building **dashboards, APIs, and scalable ML pipelines**  
 
-🏏 When I’m not working with data, you’ll find me on the cricket field
+🤖 Passionate about applying **Machine Learning, Deep Learning, and GenAI** to solve real-world problems  
+
+🏏 Outside tech, I enjoy playing cricket and analyzing strategies  
 
 ---
 
 ## 🛠️ Skills & Tools
 
 <p align="center">
-  <!-- Programming -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
-  
-  <!-- Data -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/>
-  <img src="https://img.icons8.com/color/452/power-bi.png" alt="Power BI" width="60" height="60"/>
-  
-  <!-- Machine Learning -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="60" height="60"/>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="60" height="60"/>
-  
-  <!-- Other -->
-  <img src="https://img.icons8.com/color/344/storytelling.png" alt="Data Storytelling" width="60" height="60"/>
-  <img src="https://img.icons8.com/color/452/combo-chart--v1.png" alt="Dashboarding" width="60" height="60"/>
+  <b>Programming</b><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+
+  <br><br>
+
+  <b>Data & Analytics</b><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50"/>
+  <img src="https://img.icons8.com/color/452/power-bi.png" width="50"/>
+
+  <br><br>
+
+  <b>Machine Learning</b><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50"/>
+
+  <br><br>
+
+  <b>Tools & Platforms</b><br>
+  <img src="https://img.icons8.com/color/344/storytelling.png" width="50"/>
+  <img src="https://img.icons8.com/color/452/combo-chart--v1.png" width="50"/>
+
+</p>
+
+<p align="center">
+<b>ML • DL • AI • Docker • FastAPI • AWS (IAM, EC2, S3) • CI/CD • GitHub Actions</b>
 </p>
 
 ---
-Languages & Libraries: Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn,PyTorch)
 
-Databases: MySQL
+## 📚 Tech Stack
 
-Visualization & BI Tools: Power BI, Matplotlib, Seaborn
+**Languages:** Python, SQL  
+**Databases:** MySQL, PostgreSQL  
+**BI Tools:** Power BI  
 
-Machine Learning: Regression, Classification, Clustering, Model Evaluation
+**Machine Learning:**  
+Regression • Classification • Clustering • Model Evaluation  
 
-Deep Learning: CNN, RNN, GAN(Generatrive Adversarial Networks)
+**Deep Learning:**  
+CNN • RNN • GANs  
+
+---
 
 ## 🌟 Featured Projects
 
-- [AutoEncoder-Image-Generation](https://github.com/pranotosh2/AutoEncoder) — Deep learning for data compression and anomaly detection.
-- [Customer-Behavior-Analysis](https://github.com/pranotosh2/Customer-Behavior-Analysis) — Data-driven exploration of Customer Behavior.
-- [Multi-Source-RAG-App](https://github.com/pranotosh2/Multi-Source-RAG-App) — Questions and answers with multi rag application.
-- [Product Recommendation ](https://github.com/pranotosh2/Fashion-Recommender-System) — Fashin recommended application.
+🔹 [AutoEncoder-Image-Generation](https://github.com/pranotosh2/AutoEncoder)  
+➡️ Deep learning for image generation, compression, and anomaly detection  
+
+🔹 [Customer-Behavior-Analysis](https://github.com/pranotosh2/Customer-Behavior-Analysis)  
+➡️ Data-driven insights into customer behavior patterns  
+
+🔹 [Multi-Source-RAG-App](https://github.com/pranotosh2/Multi-Source-RAG-App)  
+➡️ End-to-end RAG system (PDF, Web, YouTube) for Q&A & summarization  
+
+🔹 [Fashion-Recommender-System](https://github.com/pranotosh2/Fashion-Recommender-System)  
+➡️ ML-based product recommendation system  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pranotosh2&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranotosh2&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/pranotosh-mandal-869460269/)
-- [Kaggle](https://www.kaggle.com/pranotoshmandal2)
+🔗 [LinkedIn](https://www.linkedin.com/in/pranotosh-mandal-869460269/)  
+📊 [Kaggle](https://www.kaggle.com/pranotoshmandal2)  
 
 ---
 
-## 🏏 Fun Fact
+## ⚡ Fun Fact
 
-When I'm not working with data, you’ll probably find me playing cricket or analyzing game strategies!
+🏏 I enjoy cricket and love analyzing strategies like a data problem!
 
 ---
 
-**Let's turn data into actionable insights!**
+## 💡 Quote
 
-<!--
-**pranotosh2/Pranotosh2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *"Turning data into decisions, and ideas into impact."*
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
