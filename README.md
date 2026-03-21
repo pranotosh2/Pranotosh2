@@ -18,55 +18,43 @@
 
 🏏 Outside tech, I enjoy playing cricket and analyzing strategies  
 
----
-## 📜 Certifications
+---## 📜 Certifications
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/pranotosh2/Pranotosh2/main/DL.jpeg">
-    <img src="https://raw.githubusercontent.com/pranotosh2/Pranotosh2/main/DL.jpeg" width="200"/>
-  </a>
-  <a href="https://raw.githubusercontent.com/pranotosh2/Pranotosh2/main/DAMP-certificate.png">
-    <img src="https://raw.githubusercontent.com/pranotosh2/Pranotosh2/main/DAMP-certificate.png" width="200"/>
-  </a>
-  <a href="https://raw.githubusercontent.com/pranotosh2/Pranotosh2/main/Docker-certificate.png">
-    <img src="https://raw.githubusercontent.com/pranotosh2/Pranotosh2/main/Docker-certificate.png" width="200"/>
-  </a>
-  <a href="https://raw.githubusercontent.com/pranotosh2/Pranotosh2/main/FastAPI-certificate.png">
-    <img src="https://raw.githubusercontent.com/pranotosh2/Pranotosh2/main/FastAPI-certificate.png" width="200"/>
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://raw.githubusercontent.com/pranotosh2/Pranotosh2/main/DL.jpeg">
+        <img src="https://raw.githubusercontent.com/pranotosh2/Pranotosh2/main/DL.jpeg" width="180"/><br>
+        <sub><b>DL</b></sub>
+      </a>
+    </td>
 
-<p align="center">
-  <b>Deep Learning &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DAMP &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Docker &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; FastAPI</b>
+    <td align="center">
+      <a href="https://raw.githubusercontent.com/pranotosh2/Pranotosh2/main/DAMP-certificate.png">
+        <img src="https://raw.githubusercontent.com/pranotosh2/Pranotosh2/main/DAMP-certificate.png" width="180"/><br>
+        <sub><b>DAMP</b></sub>
+      </a>
+    </td>
+
+    <td align="center">
+      <a href="https://raw.githubusercontent.com/pranotosh2/Pranotosh2/main/Docker-certificate.png">
+        <img src="https://raw.githubusercontent.com/pranotosh2/Pranotosh2/main/Docker-certificate.png" width="180"/><br>
+        <sub><b>Docker</b></sub>
+      </a>
+    </td>
+
+    <td align="center">
+      <a href="https://raw.githubusercontent.com/pranotosh2/Pranotosh2/main/FastAPI-certificate.png">
+        <img src="https://raw.githubusercontent.com/pranotosh2/Pranotosh2/main/FastAPI-certificate.png" width="180"/><br>
+        <sub><b>FastAPI</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 </p>
 
 ## 🛠️ Skills & Tools
-
-<p align="center">
-
-  <b>Programming</b><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
-
-  <br><br>
-
-  <b>Data & Analytics</b><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50"/>
-  <img src="https://img.icons8.com/color/452/power-bi.png" width="50"/>
-
-  <br><br>
-
-  <b>Machine Learning</b><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50"/>
-
-  <br><br>
-
-  <b>Tools & Platforms</b><br>
-  <img src="https://img.icons8.com/color/344/storytelling.png" width="50"/>
-  <img src="https://img.icons8.com/color/452/combo-chart--v1.png" width="50"/>
-
-</p>
 
 <p align="center">
 <b>ML • DL • AI • Docker • FastAPI • AWS (IAM, EC2, S3) • CI/CD • GitHub Actions</b>
