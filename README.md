@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
-  <b>DL &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DAMP &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Docker &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; FastAPI</b>
+  <b>Deep Learning &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DAMP &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Docker &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; FastAPI</b>
 </p>
 
 ## 🛠️ Skills & Tools
