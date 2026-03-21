@@ -22,18 +22,34 @@
 ## 📜 Certifications
 
 <p align="center">
-  <b>Neural Networks & Deep Learning</b><br>
-  <img src="https://raw.githubusercontent.com/pranotosh2/Pranotosh2/main/DL.jpeg" width="350"/><br><br>
 
-  <b>Data Analytics Mentorship Program</b><br>
-  <img src="https://raw.githubusercontent.com/pranotosh2/Pranotosh2/main/DAMP-certificate.png" width="350"/><br><br>
+  <a href="https://raw.githubusercontent.com/pranotosh2/Pranotosh2/main/DL.jpeg">
+    <img src="https://raw.githubusercontent.com/pranotosh2/Pranotosh2/main/DL.jpeg" width="200"/><br>
+    <sub><b>Neural Networks & Deep Learning</b></sub>
+  </a>
 
-  <b>Docker for Machine Learning</b><br>
-  <img src="https://raw.githubusercontent.com/pranotosh2/Pranotosh2/main/Docker-certificate.png" width="350"/><br><br>
+  &nbsp;&nbsp;&nbsp;
 
-  <b>FastAPI for Machine Learning</b><br>
-  <img src="https://raw.githubusercontent.com/pranotosh2/Pranotosh2/main/FastAPI-certificate.png" width="350"/>
-</p>>
+  <a href="https://raw.githubusercontent.com/pranotosh2/Pranotosh2/main/DAMP-certificate.png">
+    <img src="https://raw.githubusercontent.com/pranotosh2/Pranotosh2/main/DAMP-certificate.png" width="200"/><br>
+    <sub><b>Data Analytics Mentorship</b></sub>
+  </a>
+
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://raw.githubusercontent.com/pranotosh2/Pranotosh2/main/Docker-certificate.png">
+    <img src="https://raw.githubusercontent.com/pranotosh2/Pranotosh2/main/Docker-certificate.png" width="200"/><br>
+    <sub><b>Docker for ML</b></sub>
+  </a>
+
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://raw.githubusercontent.com/pranotosh2/Pranotosh2/main/FastAPI-certificate.png">
+    <img src="https://raw.githubusercontent.com/pranotosh2/Pranotosh2/main/FastAPI-certificate.png" width="200"/><br>
+    <sub><b>FastAPI for ML</b></sub>
+  </a>
+
+</p>
 
 ## 🛠️ Skills & Tools
 
