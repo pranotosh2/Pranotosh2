@@ -18,7 +18,7 @@
 
 🏏 Outside tech, I enjoy playing cricket and analyzing strategies  
 
----## 📜 Certifications
+## 📜 Certifications
 
 <p align="center">
 <table>
