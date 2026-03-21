@@ -22,9 +22,9 @@
 ## 📜 Certifications
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/username/certificates/main/deep_learning.jpg" width="300"/>
-  <img src="https://raw.githubusercontent.com/username/certificates/main/docker_ml.jpg" width="300"/>
-  <img src="https://raw.githubusercontent.com/username/certificates/main/fastapi_ml.jpg" width="300"/>
+  <img src="[https://raw.githubusercontent.com/username/certificates/main/deep_learning.jpg](https://github.com/pranotosh2/Pranotosh2/blob/main/DAMP-certificate.png)" width="300"/>
+  <img src="[https://raw.githubusercontent.com/username/certificates/main/docker_ml.jpg](https://github.com/pranotosh2/Pranotosh2/blob/main/DL.jpeg)" width="300"/>
+  <img src="[https://raw.githubusercontent.com/username/certificates/main/fastapi_ml.jpg](https://github.com/pranotosh2/Pranotosh2/blob/main/Docker-certificate.png)" width="300"/>
 </p>
 
 ## 🛠️ Skills & Tools
