@@ -30,21 +30,21 @@
       </a>
     </td>
 
-    <td align="center">
+   <td align="center">
       <a href="https://raw.githubusercontent.com/pranotosh2/Pranotosh2/main/DAMP-certificate.png">
         <img src="https://raw.githubusercontent.com/pranotosh2/Pranotosh2/main/DAMP-certificate.png" width="180"/><br>
         <sub><b>DAMP</b></sub>
       </a>
     </td>
 
-    <td align="center">
+  <td align="center">
       <a href="https://raw.githubusercontent.com/pranotosh2/Pranotosh2/main/Docker-certificate.png">
         <img src="https://raw.githubusercontent.com/pranotosh2/Pranotosh2/main/Docker-certificate.png" width="180"/><br>
         <sub><b>Docker</b></sub>
       </a>
     </td>
 
-    <td align="center">
+  <td align="center">
       <a href="https://raw.githubusercontent.com/pranotosh2/Pranotosh2/main/FastAPI-certificate.png">
         <img src="https://raw.githubusercontent.com/pranotosh2/Pranotosh2/main/FastAPI-certificate.png" width="180"/><br>
         <sub><b>FastAPI</b></sub>
