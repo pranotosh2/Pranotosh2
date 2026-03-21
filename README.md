@@ -25,28 +25,28 @@
 
   <a href="https://raw.githubusercontent.com/pranotosh2/Pranotosh2/main/DL.jpeg">
     <img src="https://raw.githubusercontent.com/pranotosh2/Pranotosh2/main/DL.jpeg" width="200"/><br>
-    <sub><b>Neural Networks & Deep Learning</b></sub>
+    <sub><b>DL</b></sub>
   </a>
 
   &nbsp;&nbsp;&nbsp;
 
   <a href="https://raw.githubusercontent.com/pranotosh2/Pranotosh2/main/DAMP-certificate.png">
     <img src="https://raw.githubusercontent.com/pranotosh2/Pranotosh2/main/DAMP-certificate.png" width="200"/><br>
-    <sub><b>Data Analytics Mentorship</b></sub>
+    <sub><b>DAMP</b></sub>
   </a>
 
   &nbsp;&nbsp;&nbsp;
 
   <a href="https://raw.githubusercontent.com/pranotosh2/Pranotosh2/main/Docker-certificate.png">
     <img src="https://raw.githubusercontent.com/pranotosh2/Pranotosh2/main/Docker-certificate.png" width="200"/><br>
-    <sub><b>Docker for ML</b></sub>
+    <sub><b>Docker</b></sub>
   </a>
 
   &nbsp;&nbsp;&nbsp;
 
   <a href="https://raw.githubusercontent.com/pranotosh2/Pranotosh2/main/FastAPI-certificate.png">
     <img src="https://raw.githubusercontent.com/pranotosh2/Pranotosh2/main/FastAPI-certificate.png" width="200"/><br>
-    <sub><b>FastAPI for ML</b></sub>
+    <sub><b>FastAPI</b></sub>
   </a>
 
 </p>
