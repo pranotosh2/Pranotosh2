@@ -22,9 +22,25 @@
 ## 📜 Certifications
 
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/username/certificates/main/deep_learning.jpg](https://github.com/pranotosh2/Pranotosh2/blob/main/DAMP-certificate.png)" width="300"/>
-  <img src="[https://raw.githubusercontent.com/username/certificates/main/docker_ml.jpg](https://github.com/pranotosh2/Pranotosh2/blob/main/DL.jpeg)" width="300"/>
-  <img src="[https://raw.githubusercontent.com/username/certificates/main/fastapi_ml.jpg](https://github.com/pranotosh2/Pranotosh2/blob/main/Docker-certificate.png)" width="300"/>
+
+  <a href="https://raw.githubusercontent.com/pranotosh2/Pranotosh2/main/DL.jpeg">
+    <img src="https://raw.githubusercontent.com/pranotosh2/Pranotosh2/main/DL.jpeg" width="300"/>
+  </a>
+
+  <a href="https://raw.githubusercontent.com/pranotosh2/Pranotosh2/main/DAMP-certificate.png">
+    <img src="https://raw.githubusercontent.com/pranotosh2/Pranotosh2/main/DAMP-certificate.png" width="300"/>
+  </a>
+
+  <br><br>
+
+  <a href="https://raw.githubusercontent.com/pranotosh2/Pranotosh2/main/Docker-certificate.png">
+    <img src="https://raw.githubusercontent.com/pranotosh2/Pranotosh2/main/Docker-certificate.png" width="300"/>
+  </a>
+
+  <a href="https://raw.githubusercontent.com/pranotosh2/Pranotosh2/main/FastAPI-certificate.png">
+    <img src="https://raw.githubusercontent.com/pranotosh2/Pranotosh2/main/FastAPI-certificate.png" width="300"/>
+  </a>
+
 </p>
 
 ## 🛠️ Skills & Tools
