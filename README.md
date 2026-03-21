@@ -4,7 +4,7 @@
 
 🔹 Passionate about transforming raw data into meaningful insights  
 🔹 Skilled in building end-to-end ML systems and data-driven applications  
-🔹 Focused on real-world impact using AI, Deep Learning, and GenAI  
+🔹 Focused on real-world impact using AI, ML, Deep Learning, and GenAI  
 
 ---
 
