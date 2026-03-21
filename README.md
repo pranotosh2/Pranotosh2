@@ -19,6 +19,13 @@
 🏏 Outside tech, I enjoy playing cricket and analyzing strategies  
 
 ---
+## 📜 Certifications
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/username/certificates/main/deep_learning.jpg" width="300"/>
+  <img src="https://raw.githubusercontent.com/username/certificates/main/docker_ml.jpg" width="300"/>
+  <img src="https://raw.githubusercontent.com/username/certificates/main/fastapi_ml.jpg" width="300"/>
+</p>
 
 ## 🛠️ Skills & Tools
 
@@ -82,16 +89,6 @@ CNN • RNN • GANs
 🔹 [Fashion-Recommender-System](https://github.com/pranotosh2/Fashion-Recommender-System)  
 ➡️ ML-based product recommendation system  
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranotosh2&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranotosh2&theme=tokyonight" />
-</p>
-
----
 
 ## 🌐 Connect with Me
 
