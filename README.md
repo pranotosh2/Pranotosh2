@@ -93,24 +93,6 @@
 
 ## 🌟 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/pranotosh2/Multi-Source-RAG-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranotosh2&repo=Multi-Source-RAG-App&theme=dark" alt="Multi-Source-RAG-App" />
-  </a>
-  <a href="https://github.com/pranotosh2/Text-to-SQL-Agent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranotosh2&repo=Text-to-SQL-Agent&theme=dark" alt="Text-to-SQL-Agent" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/pranotosh2/LangGraph-AI-Agent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranotosh2&repo=LangGraph-AI-Agent&theme=dark" alt="LangGraph-AI-Agent" />
-  </a>
-  <a href="https://github.com/pranotosh2/House-Price-Prediction">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranotosh2&repo=House-Price-Prediction&theme=dark" alt="House-Price-Prediction" />
-  </a>
-</p>
-
 | Project | Description | Stack |
 |---|---|---|
 | 🤖 [Multi-Source-RAG-App](https://github.com/pranotosh2/Multi-Source-RAG-App) | RAG app that ingests PDFs, text, websites & YouTube videos for Q&A and summarization | Streamlit • LangChain • FAISS • Groq |
