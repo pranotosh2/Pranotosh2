@@ -1,4 +1,5 @@
-<h1 align="center">Hi there, I'm Pranotosh Mandal 👋</h1>
+<h1 align="center">👋 Welcome to my Profile!</h1>
+<h2 align="center">I'm Pranotosh Mandal</h2>
 <h3 align="center">🚀 AI/ML Engineer | Data Analyst | Problem Solver</h3>
 
 <p align="center">
@@ -123,12 +124,12 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranotosh2&show_icons=true&theme=default&count_private=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranotosh2&theme=default" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pranotosh2&show_icons=true&theme=default&count_private=true&cache_seconds=1800&v=2" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranotosh2&theme=default&v=2" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranotosh2&layout=compact&theme=default" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranotosh2&layout=compact&theme=default&cache_seconds=1800&v=2" width="60%" />
 </p>
 
 ---
