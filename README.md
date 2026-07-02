@@ -93,28 +93,30 @@
 ## 🌟 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/pranotosh2/AutoEncoder">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranotosh2&repo=AutoEncoder&theme=default" />
-  </a>
-  <a href="https://github.com/pranotosh2/Customer-Behavior-Analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranotosh2&repo=Customer-Behavior-Analysis&theme=default" />
-  </a>
-</p>
-<p align="center">
   <a href="https://github.com/pranotosh2/Multi-Source-RAG-App">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranotosh2&repo=Multi-Source-RAG-App&theme=default" />
   </a>
-  <a href="https://github.com/pranotosh2/Fashion-Recommender-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranotosh2&repo=Fashion-Recommender-System&theme=default" />
+  <a href="https://github.com/pranotosh2/text-to-sql-agent">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranotosh2&repo=text-to-sql-agent&theme=default" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/pranotosh2/LangGraph-AI-Agent">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranotosh2&repo=LangGraph-AI-Agent&theme=default" />
+  </a>
+  <a href="https://github.com/pranotosh2/House-Price-Prediction">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranotosh2&repo=House-Price-Prediction&theme=default" />
   </a>
 </p>
 
-| Project | Description |
-|---|---|
-| 🧠 [AutoEncoder-Image-Generation](https://github.com/pranotosh2/AutoEncoder) | Deep learning for image generation, compression, and anomaly detection |
-| 📈 [Customer-Behavior-Analysis](https://github.com/pranotosh2/Customer-Behavior-Analysis) | Data-driven insights into customer behavior patterns |
-| 🔍 [Multi-Source-RAG-App](https://github.com/pranotosh2/Multi-Source-RAG-App) | End-to-end RAG system (PDF, Web, YouTube) for Q&A & summarization |
-| 👗 [Fashion-Recommender-System](https://github.com/pranotosh2/Fashion-Recommender-System) | ML-based product recommendation system |
+| Project | Description | Stack |
+|---|---|---|
+| 🤖 [Multi-Source-RAG-App](https://github.com/pranotosh2/Multi-Source-RAG-App) | RAG app that ingests PDFs, text, websites & YouTube videos for Q&A and summarization | Streamlit • LangChain • FAISS • Groq |
+| 🔍 [Text-to-SQL-Agent](https://github.com/pranotosh2/text-to-sql-agent) | LangChain ReAct agent that turns natural-language questions into validated SQL and auto-generates charts | FastAPI • PostgreSQL • Groq • Docker |
+| 🧭 [LangGraph-AI-Agent](https://github.com/pranotosh2/LangGraph-AI-Agent) | Multi-provider AI chatbot with optional live web search, built on a LangGraph ReAct agent | LangGraph • FastAPI • Groq • Gemini • Tavily |
+| 🏠 [House-Price-Prediction](https://github.com/pranotosh2/House-Price-Prediction) | End-to-end XGBoost regression app with a REST API and dark-mode frontend | FastAPI • XGBoost • Docker • CI/CD |
+
+<p align="center"><i>🔗 Each project ships with Docker, CI/CD via GitHub Actions, and a live deployment — check the repo READMEs for demo links.</i></p>
 
 ---
 
