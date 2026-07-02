@@ -107,8 +107,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranotosh2&show_icons=true&theme=default&count_private=true&cache_seconds=1800&v=2" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranotosh2&theme=default&v=2" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pranotosh2&show_icons=true&theme=default&count_private=true&cache_seconds=1800&v=2" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranotosh2&theme=default&v=2" width="100%" />
 </p>
 
 <p align="center">
