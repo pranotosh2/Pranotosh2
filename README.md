@@ -12,7 +12,7 @@
   <a href="mailto:youremail@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="YOUR_RESUME_LINK_HERE">
+  <a href="https://github.com/pranotosh2/Pranotosh2/blob/main/Pranotosh_Mandal.pdf">
     <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
 </p>
