@@ -3,10 +3,6 @@
 <h3 align="center">🚀 AI/ML Engineer | Data Analyst | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Turning+data+into+decisions...;Building+end-to-end+ML+pipelines;Exploring+GenAI+%26+Deep+Learning;Cricket+enthusiast+%F0%9F%8F%8F" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/pranotosh-mandal-869460269/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -15,6 +11,9 @@
   </a>
   <a href="mailto:youremail@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="YOUR_RESUME_LINK_HERE">
+    <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
 </p>
 
